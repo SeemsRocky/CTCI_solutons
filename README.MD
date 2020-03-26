@@ -13,5 +13,6 @@
 # Linked Lists
 | Problem | Completed | Leetcode Number / Difficulty |
 | ------- | --------- | ----------------|
+| [Partition](https://leetcode.com/problems/partition-list/) | Yes | 86/Medium |
 | [Remove Duplicates](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | Yes | 83/Easy |
 | [Return Kth Last](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | Yes | 19/Medium |
