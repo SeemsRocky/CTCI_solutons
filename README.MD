@@ -17,3 +17,4 @@
 | [Partition](https://leetcode.com/problems/partition-list/) | Yes | 86/Medium |
 | [Remove Duplicates](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | Yes | 83/Easy |
 | [Return Kth Last](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | Yes | 19/Medium |
+| [Sum Lists](https://leetcode.com/problems/add-two-numbers/) | Yes | 2/Medium |
